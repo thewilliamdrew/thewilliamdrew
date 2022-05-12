@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thewilliamdrew
 - 👀 I’m interested in the intersection between medicine and computer science, advancing neuroscience research with computer science. In particular, I'm investigating ways to use machine learning to expand our understanding of brain networks. 
 
-Publications
+### Publications
 
 I. Kletenik, A. L. Cohen, B. I. Glanz, M. Ferguson, S. Tauhid, **W. Drew**, M. Polgar-Turcsanyi, M. Palotai, G. Marshall, T. Chitnis, C. Guttmann, R. Bakshi, M. D. Fox. “Multiple Sclerosis Lesions that Impair Memory Map to a Connected Brain Circuit” *Brain* (Submitted).
 
