@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @thewilliamdrew
 - 👀 I’m interested in the intersection between medicine and computer science, advancing neuroscience research with computer science. In particular, I'm investigating ways to use machine learning to expand our understanding of brain networks. 
-- 
