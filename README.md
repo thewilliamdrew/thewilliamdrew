@@ -4,6 +4,8 @@
 
 ### Publications
 
+Phan, T. X., Baratono, S., **Drew, W.**, Tetreault, A. M., Fox, M. D. & Darby, R. R. (2024). Increased cortical thickness in Alzheimer’s disease. Annals of Neurology. https://doi.org/10.1002/ana.26894
+
 Taylor, J. J., Palm, S., Cohen, A. L., Croarkin, P. E., **Drew, W.**, Fox, M. D., Siddiqi, S. H. (2023). Brain circuits involved in TMS response in adults are connected to a similar prefrontal target in children. *Biological Psychiatry*. https://doi.org/10.1016/j.biopsych.2023.08.019 
 
 Stubbs, J. L., Taylor, J. J., Siddiqi, S. H., Schaper, F. L. W. V. J., Cohen, A. L., **Drew, W.**, Hanlon, C. A., Abdolahi, A., Wang, H. Z., Honer, W. G., Panenka, W. J., Fox, M. D. (2023). Heterogeneous neuroimaging findings across substance use disorders localize to a common brain network. *Nature Mental Health*. https://doi.org/10.1038/s44220-023-00128-7 
