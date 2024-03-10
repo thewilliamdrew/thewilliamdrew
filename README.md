@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thewilliamdrew
-- 👀 I’m interested in the intersection of medicine and computer science, advancing neuroscience research with computer science. In particular, I'm investigating ways to use machine learning to expand our understanding of brain networks.
+- 👀 I’m interested in the intersection of medicine and computer science by advancing neuroscience research with machine learning to expand our understanding of brain networks.
 - Currently working on the [pfc-toolkit](https://github.com/thewilliamdrew/pfc-toolkit) and other neuroimaging projects [@nimlab](https://github.com/nimlab).
 
 ### Publications
