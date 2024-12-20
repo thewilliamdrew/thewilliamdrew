@@ -1,10 +1,20 @@
 - 👋 Hi, I’m @thewilliamdrew
 - 👀 I’m interested in the intersection of medicine and computer science by advancing neuroscience research with machine learning to expand our understanding of brain networks.
-- Currently working on the [pfc-toolkit](https://github.com/thewilliamdrew/pfc-toolkit) and other neuroimaging projects [@nimlab](https://github.com/nimlab).
+- 🎓 Currently an MD-PhD student at Columbia University Vagelos College of Physicans and Surgeons.
+- 🧠 Working on the [pfc-toolkit](https://github.com/thewilliamdrew/pfc-toolkit) and other neuroimaging projects [@nimlab](https://github.com/nimlab).
 
 ### Publications
+Makhlouf, A. T., **Drew, W.**, Stubbs, J., Taylor, J. J., Grafman, J., Silbersweig, D., Fox, M. D., & Siddiqi, S. H. (2024). Heterogenous patterns of brain atrophy in schizophrenia localize to a common brain network. *Nature Mental Health*. https://doi.org/10.1038/s44220-024-00348-5 
 
-Phan, T. X., Baratono, S., **Drew, W.**, Tetreault, A. M., Fox, M. D. & Darby, R. R. (2024). Increased cortical thickness in Alzheimer’s disease. Annals of Neurology. https://doi.org/10.1002/ana.26894
+Bonkhoff A. K., Cohen A., **Drew W.**, Ferguson M. A., Lin C., Schaper F. L. W. V. J., Bourached A., Oliveira L., Regenhardt R. W., Schirmer M. D., Donahue K. L., Nardin M. J., Dalca A. V., Giese A.-K., Hancock B. L., Mocking S. J. T., McIntosh E. C., Attia J., Cole J. W., Donatti A., Griessenauer C. J., Heitsch L., Holmegaard L., Jood K., Jimenez-Conde J., Kittner S. J., Lemmens R., Levi C. R., McDonough C. W., Meschia J. F., Phuah C.-L., Ropele S., Rosand J., Roquer J., Rundek T., Schmidt R., Sharma P., Slowik A., Sousa A., Stanne T. M., Strbian D., Tatlisumak T., Thijs V., Vagal A., Wasselius J., Woo D., Zand R., McArdle P. F., Worrall B. B., Jern C., Lindgren A. G., Maguire J., Wu O., Zafar S., Rhee J., Kimchi E. Y., Rost N. S., Fox M. D., & MRI-GENIE and GISCOME Investigators and the International Stroke Genetics Consortium (2024). Prediction of stroke severity: Systematic evaluation of lesion representations. *Annals of Clinical and Translational Neurology*. https://doi.org/10.1002/acn3.52215
+
+Larivière, S., Schaper, F. L. W. V. J., Royer, J., Rodríguez-Cruces, R., Xie, K., DeKraker, J., Ngo, A., Sahlas, E., Chen, J., Tavakol, S., **Drew, W.**, Morton-Dutton, M., Warren, A. E. L., Baratono, S. R., Rolston, J. D., Weng, Y., Bernasconi, A., Bernasconi, N., Concha, L., Zhang, Z., Frauscher, B., Bernhardt, B. C., & Fox, M. D. (2024). Brain Networks for Cortical Atrophy and Responsive Neurostimulation in Temporal Lobe Epilepsy. *JAMA Neurology*. https://doi.org/10.1001/jamaneurol.2024.2952 
+
+Schaper, F., Morton-Dutton, M., **Drew, W.**, Khosravani, S., Joutsa, J., & Fox, M. (2024). Brain lesions causing parkinsonism versus seizures map to opposite brain networks. *Brain Communications*. https://doi.org/10.1093/braincomms/fcae196 
+
+Lee, S., Zide, B. S., Palm, S. T., **Drew, W. J.**, Sperling, R. A., Jacobs, H. I. L., Siddiqi, S. H., & Donovan, N. J. (2024). Specific association of worry with amyloid-β but not tau in cognitively unimpaired older adults. *The American Journal of Geriatric Psychiatry*. https://doi.org/10.1016/j.jagp.2024.04.016
+
+Phan, T. X., Baratono, S., **Drew, W.**, Tetreault, A. M., Fox, M. D. & Darby, R. R. (2024). Increased cortical thickness in Alzheimer’s disease. *Annals of Neurology*. https://doi.org/10.1002/ana.26894
 
 Taylor, J. J., Palm, S., Cohen, A. L., Croarkin, P. E., **Drew, W.**, Fox, M. D., Siddiqi, S. H. (2023). Brain circuits involved in TMS response in adults are connected to a similar prefrontal target in children. *Biological Psychiatry*. https://doi.org/10.1016/j.biopsych.2023.08.019 
 
