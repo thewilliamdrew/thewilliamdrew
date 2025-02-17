@@ -4,7 +4,9 @@
 - 🧠 Working on the [pfc-toolkit](https://github.com/thewilliamdrew/pfc-toolkit) and other neuroimaging projects [@nimlab](https://github.com/nimlab).
 
 ### Publications
-Kutsche, J., Taylor, J. J., Erkkinen, M. G., Akkad, H., Khosravani, S., **Drew, W.**, Abraham, A., Ott, D. V. M., Wall, J., Cohen, A. L., Horn, A., Neumann, W.-J., Kletenik, I., & Fox, M. D. (2025). Mapping Neuroimaging Findings of Creativity and Brain Disease Onto a Common Brain Circuit. JAMA Network Open. https://doi.org/10.1001/jamanetworkopen.2024.59297
+Pines, A. R., Frandsen, S. B., **Drew, W.**, Meyer, G. M., Howard, C., Palm, S. T., Schaper, F. L. W. V. J., Lin, C., Butenko, K., Ferguson, M. A., Friedrich, M. U., Grafman, J. H., Kappel, A. D., Neudorfer, C., Rost, N. S., Sanderson, L. L., Taylor, J. J., Wu, O., Kletenik, I., Vogel, J. W., Cohen, A. L., Horn, A., Fox, M. D., Silbersweig, D., Siddiqi, S. H. (2025). Mapping Lesions That Cause Psychosis to a Human Brain Circuit and Proposed Stimulation Target. _JAMA Psychiatry_. https://doi.org/10.1001/jamapsychiatry.2024.4534
+
+Kutsche, J., Taylor, J. J., Erkkinen, M. G., Akkad, H., Khosravani, S., **Drew, W.**, Abraham, A., Ott, D. V. M., Wall, J., Cohen, A. L., Horn, A., Neumann, W.-J., Kletenik, I., & Fox, M. D. (2025). Mapping Neuroimaging Findings of Creativity and Brain Disease Onto a Common Brain Circuit. _JAMA Network Open_. https://doi.org/10.1001/jamanetworkopen.2024.59297
 
 Makhlouf, A. T., **Drew, W.**, Stubbs, J., Taylor, J. J., Grafman, J., Silbersweig, D., Fox, M. D., & Siddiqi, S. H. (2024). Heterogenous patterns of brain atrophy in schizophrenia localize to a common brain network. *Nature Mental Health*. https://doi.org/10.1038/s44220-024-00348-5 
 
