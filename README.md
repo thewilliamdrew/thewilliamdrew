@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thewilliamdrew
 - 👀 I’m interested in the intersection of medicine and computer science by advancing neuroscience research with machine learning to expand our understanding of brain networks.
-- 🎓 Currently an MD-PhD student at Columbia University Vagelos College of Physicans and Surgeons.
+- 🎓 Currently doing an MD-PhD at Columbia University Vagelos College of Physicans and Surgeons.
 - 🧠 Working on the [pfc-toolkit](https://github.com/thewilliamdrew/pfc-toolkit) and other neuroimaging projects [@nimlab](https://github.com/nimlab).
 
 ### Publications
