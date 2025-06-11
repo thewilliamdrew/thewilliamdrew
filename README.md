@@ -4,6 +4,8 @@
 - 🧠 Working on the [pfc-toolkit](https://github.com/thewilliamdrew/pfc-toolkit) and other neuroimaging projects [@nimlab](https://github.com/nimlab).
 
 ### Publications
+Kletenik, I., Filley, C. M., Cohen, A. L., **Drew, W.**, Churchland, P. S., Darby, R. R., Fox, M. D. (2025). White matter disconnection in acquired criminality. _Molecular Psychiatry_. https://doi.org/10.1038/s41380-025-03076-z
+
 Balse, A., Smith, C. N., **Drew, W.**, Golshan, S., Ansari, H., Chaudry, A., Karanam, A., Ahmed, M. (2025). Posttraumatic Headache: A Possible Therapeutic Target of Transcranial Magnetic Stimulation. _The Journal of Neuropsychiatry and Clinical Neurosciences_. https://doi.org/10.1176/appi.neuropsych.20240030
 
 Pines, A. R., Frandsen, S. B., **Drew, W.**, Meyer, G. M., Howard, C., Palm, S. T., Schaper, F. L. W. V. J., Lin, C., Butenko, K., Ferguson, M. A., Friedrich, M. U., Grafman, J. H., Kappel, A. D., Neudorfer, C., Rost, N. S., Sanderson, L. L., Taylor, J. J., Wu, O., Kletenik, I., Vogel, J. W., Cohen, A. L., Horn, A., Fox, M. D., Silbersweig, D., Siddiqi, S. H. (2025). Mapping Lesions That Cause Psychosis to a Human Brain Circuit and Proposed Stimulation Target. _JAMA Psychiatry_. https://doi.org/10.1001/jamapsychiatry.2024.4534
