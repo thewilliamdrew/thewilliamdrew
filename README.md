@@ -4,6 +4,8 @@
 - 🧠 Working on the [pfc-toolkit](https://github.com/thewilliamdrew/pfc-toolkit) and other neuroimaging projects [@nimlab](https://github.com/nimlab).
 
 ### Publications
+Khosravani, S., Palm, S., **Drew, W.**, Frandsen, S., Lin, C., Tiller, E., Hindley, L., Schineller, M., Garimella, A., Chiulli, N., Lawson, D., Jones, E., Press, D., Stern, A., Brown, J., Barbour, T., Taylor, J., Carpenter, L., Siddiqi, S.H., and Fox, M.D. (2025). Predictive Value of Subgenual Cingulate Normative Connectivity to TMS Treatment Site for Antidepressant Response in Routine Clinical Practice: A Prospective, Multisite Cohort Study. _Molecular Psychiatry_. https://doi.org/10.1038/s41380-025-03153-3 
+
 Kletenik, I., Filley, C. M., Cohen, A. L., **Drew, W.**, Churchland, P. S., Darby, R. R., Fox, M. D. (2025). White matter disconnection in acquired criminality. _Molecular Psychiatry_. https://doi.org/10.1038/s41380-025-03076-z
 
 Balse, A., Smith, C. N., **Drew, W.**, Golshan, S., Ansari, H., Chaudry, A., Karanam, A., Ahmed, M. (2025). Posttraumatic Headache: A Possible Therapeutic Target of Transcranial Magnetic Stimulation. _The Journal of Neuropsychiatry and Clinical Neurosciences_. https://doi.org/10.1176/appi.neuropsych.20240030
