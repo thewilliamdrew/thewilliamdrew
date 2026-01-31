@@ -4,6 +4,13 @@
 - 🧠 Working on the [pfc-toolkit](https://github.com/thewilliamdrew/pfc-toolkit) and other neuroimaging projects [@nimlab](https://github.com/nimlab).
 
 ### Publications
+
+Kutsche, J., Howard, C., Palacin, A. C., **Drew, W.**, Michel, M., Cohen, A. L., Fox, M. D., Kletenik, I. (2026). Lesions Causing Aphantasia are Connected to the Fusiform Imagery Node. Cortex. https://doi.org/10.1016/j.cortex.2026.01.009 
+
+Nishitani, M., Horisawa, S., Butenko, K., Togo, H., Garimella, A., **Drew, W.**, Chua, M., Shaban, E., Kawamata, T., Taira, T., Horn, A., Fox, M. D., Hanakawa, T. (2026). Probabilistic Lesion Mapping to Optimize Thalamotomy Targets for Focal Hand Dystonia. Annals of Neurology. https://doi.org/10.1002/ana.78152 
+
+Howard, C. W., Reich, M., Luo, L., Pacheco-Barrios, N., Alterman, R., Rios, A. S., Guo, M., Luo, Z., Friedrich, H., Pines, A., Montaser-Kouhsari, L., Drew, W., Hart, L., Meyer, G., Rajamani, N., Friedrich, M. U., Milanese, V., Lozano, A., Picht, T., Faust, K., Horn, A., Fox, M. D. (2025). Cognitive Outcomes of Deep Brain Stimulation Depend on Age and Hippocampal Connectivity in Parkinson’s and Alzheimer’s Disease. Alzheimer’s & Dementia. https://doi.org/10.1002/alz.70498 
+
 Khosravani, S., Palm, S., **Drew, W.**, Frandsen, S., Lin, C., Tiller, E., Hindley, L., Schineller, M., Garimella, A., Chiulli, N., Lawson, D., Jones, E., Press, D., Stern, A., Brown, J., Barbour, T., Taylor, J., Carpenter, L., Siddiqi, S.H., and Fox, M.D. (2025). Predictive Value of Subgenual Cingulate Normative Connectivity to TMS Treatment Site for Antidepressant Response in Routine Clinical Practice: A Prospective, Multisite Cohort Study. _Molecular Psychiatry_. https://doi.org/10.1038/s41380-025-03153-3 
 
 Kletenik, I., Filley, C. M., Cohen, A. L., **Drew, W.**, Churchland, P. S., Darby, R. R., Fox, M. D. (2025). White matter disconnection in acquired criminality. _Molecular Psychiatry_. https://doi.org/10.1038/s41380-025-03076-z
